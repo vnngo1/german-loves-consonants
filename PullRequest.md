@@ -4,3 +4,5 @@ Babiker Babiker (Bbabiker):
 https://github.com/sjbaraho/Ohrwurm_Story/pull/8
 
 Rachel Corey (rachelcorey/rcoreyde): https://github.com/cadkiso1/fernweh_teamexercise/pull/1
+
+Kelsey Franks (kfrank4): https://github.com/andrewseba/kummerspeck_storytime/pull/4
