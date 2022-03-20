@@ -20,4 +20,4 @@ Raesfeld: place in Germany
 Rammstein: music band 
 Ratskeller: city basement restaurant
 Schloss: lock
-wettbewerbsfaehig: competitive
+Wettbewerbsfaehig: competitive
