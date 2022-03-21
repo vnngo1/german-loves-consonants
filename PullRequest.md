@@ -13,3 +13,6 @@ https://github.com/mhende18/dreikaesehoch_Story/pull/4
 
 Kelsey Franks (kfrank4):
 https://github.com/andrewseba/kummerspeck_storytime/pull/4
+
+Sharee Huddleston (asureitid: shuddle4 / git:shuddle44)
+https://github.com/cander91/zungenbrecher-storytime/pull/5
