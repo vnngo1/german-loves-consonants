@@ -1,23 +1,23 @@
-Apfelkuchen: apple cake
-Baeckerei: bakery
-Berlin: Germany capital  
+Apfelkuchen: apple cake [x]
+Baeckerei: bakery [x]
+Berlin: Germany capital  [x]
 Biergarten: beer garden 
 BMW: German car company
-Bratwurst: German sausage 
-Brot: bread
-Dirndel: traditional German women outfit
-Doener: kebab
+Bratwurst: German sausage [x]
+Brot: bread [x]
+Dirndel: traditional German women outfit [x]
+Doener: kebab [x]
 Eltz: Eltz castle
-Flughafen: airport
-Gebaeck: pastries
-Hauptstrasse: main road
-Hund: dog
-Klimaanlage: air conditioning 
-Lederhose: leather pants 
-Mehlhase: our amazing teacher Dr. Mehlhase
-Porsche: German car company
-Raesfeld: place in Germany
-Rammstein: music band 
+Flughafen: airport [x]
+Gebaeck: pastries [x]
+Hauptstrasse: main road [x]
+Hund: dog [x]
+Klimaanlage: air conditioning [x]
+Lederhose: leather pants [x]
+Mehlhase: our amazing teacher Dr. Mehlhase [x]
+Porsche: German car company [x]
+Raesfeld: place in Germany [x]
+Rammstein: music band [x]
 Ratskeller: city basement restaurant
-Schloss: lock
+Schloss: lock [x]
 Wettbewerbsfaehig: competitive
