@@ -1,24 +1,23 @@
-Raesfeld: place in Germany
-Flughafen: airport
-Berlin: Germany capital  
-Bratwurst: German sausage 
-Hauptstrasse: main road
-Brot: bread
-Klimaanlage: air conditioning 
-Rammstein: music band 
-Porsche
-BMW
-Biergarten: beer garden 
-Ratskeller: city basement restaurant
-Dirndel: traditional German women outfit
-Lederhose: leather pants 
-Schloss: lock
-wettbewerbsfaehig: competitive
-Mehlhase: our amazing teacher Dr. Mehlhase
-Gebaeck: pastries
-Baeckerei: bakery
-Hund: dog
-Doener: kebab
 Apfelkuchen: apple cake
-Schloss: lock
+Baeckerei: bakery
+Berlin: Germany capital  
+Biergarten: beer garden 
+BMW: German car company
+Bratwurst: German sausage 
+Brot: bread
+Dirndel: traditional German women outfit
+Doener: kebab
 Eltz: Eltz castle
+Flughafen: airport
+Gebaeck: pastries
+Hauptstrasse: main road
+Hund: dog
+Klimaanlage: air conditioning 
+Lederhose: leather pants 
+Mehlhase: our amazing teacher Dr. Mehlhase
+Porsche: German car company
+Raesfeld: place in Germany
+Rammstein: music band 
+Ratskeller: city basement restaurant
+Schloss: lock
+Wettbewerbsfaehig: competitive
